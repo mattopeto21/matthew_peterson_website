@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(to right,
+#fdfc47, #24fe41);
+    font-family: helvetica;
+
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+hr {
+    color: black;
+}
+
+h4 {
+    color: black;
+}
+
+dd {
+    color: black;
+}
+
+dt {
+
+    color: black;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
