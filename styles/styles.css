@@ -1,7 +1,5 @@
 body {
-    body {
 
-}
 
 }
 
@@ -9,6 +7,16 @@ h1 {
     color: #056754;
     border: 4px solid #80C4B7;
     text-align: center;
+    background-color: #80C4B7;
+;
+}
+div {
+    text-align: center;
+}
+
+br {
+    display: block;
+    margin: 1px;
 }
 
 p {
@@ -45,6 +53,7 @@ li {
 h2 {
     text-align: center;
 }
+
 table,
 td {
     border: 2px solid #367;
@@ -57,4 +66,10 @@ tfoot {
     background-color: #80C4B7;
     color: #056754;
     font-size: 25
+}
+
+
+span:hover{
+  text-decoration: underline;
+  color:crimson;
 }
