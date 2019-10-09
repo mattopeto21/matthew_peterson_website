@@ -8,7 +8,8 @@ h1 {
     border: 4px solid #80C4B7;
     text-align: center;
     background-color: #80C4B7;
-;
+
+}
 }
 div {
     text-align: center;
@@ -70,6 +71,11 @@ tfoot {
 
 
 span:hover{
+  text-decoration: underline;
+  color:crimson;
+}
+
+a:hover{
   text-decoration: underline;
   color:crimson;
 }
