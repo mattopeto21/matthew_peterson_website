@@ -82,5 +82,12 @@ a:hover{
 
 img{
 border-radius: 50%;
+  transition: width 2s, border-radius 2s, height 2s;
+}
+
+img:hover{
+    width: 250px;
+    height: 300px;
+    border-radius: 5%;
 }
 
